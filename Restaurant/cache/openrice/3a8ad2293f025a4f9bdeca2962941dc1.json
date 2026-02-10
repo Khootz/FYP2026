@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-10T15:37:55.916922",
+  "query": "泛亞飲食 Asia Pacific Catering",
+  "data": {
+    "query": "泛亞飲食 Asia Pacific Catering",
+    "matched": true,
+    "confidence": 0.85,
+    "name": "Asia Pacific Catering",
+    "openrice_id": "asia-pacific-catering-sai-kung-hong-kong-style-r25498",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-asia-pacific-catering-sai-kung-hong-kong-style-r25498/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "溫書到七點，去到嘅時候已經多款食物出現售罄，職員建議食燒味。最終選擇雙拼叉燒油雞飯，叉燒係瘦叉，如果可以再切薄少少會好食啲。油雞肉質幾嫩，比叉燒好食。飲品選擇豆腐肉碎湯，應該係開始收檔嘅關係，只可以稱之為暖。不過以$30嚟講，咁嘅食物質素都真係算幾抵啦！…Read More",
+      "大學的飯堂來說，這個也算多選擇由生炒骨滑蛋炒蛋等小菜套餐又有兩餸三餸飯，而且每個食品都標明卡路里，讓同學參考算是貼心，如果減肥當然要選較低卡路里的菜式大學飯堂的兩餸飯，一向又稱頹飯。今天這個兩餸飯，雖然談不上好吃，但屬於正正常常尚可接受。今天的兩餸飯有雲嘅牛肉蝦米粉絲蒸雞又有豆腐，我選了榨菜肉絲豆腐和冬瓜，肉片豆腐榨菜，幾…Read More",
+      "好耐冇返到學校，終於有機會嘆番個下午茶啦，呢碟下午茶可以話物超所值！^_^有舊好大舊嘅吼雞髀🍗，非常之好食非常之脆同埋香，牛油粟米亦都非常之甜😋。雪菜肉絲米份量都好充足。價錢都係$25左右超抵！…Read More",
+      "喺飛鵝山行完山順便落科大，去到大學梗係食平啲！泛亞其實係大家樂，不過佢嘅價錢比起出面平5蚊，可惜選擇唔算多。呢個咖哩雞飯價值32蚊，以做完運動黎計係夠飽嘅，而且啲汁好多，唔怕乾蒸蒸咁食白飯。…Read More",
+      "蹤使加工肉被指不健康食物,都無阻我對世界美食的愛,好, 我要一個熱狗~熱狗 $20.5芥末沙律醬響學校飯堂係佢先有自己鍾意芥末沙律醬味道吸引,甜度好足夠, 配鹹嘅雞肉腸都唔會覺鹹,青瓜番茄增添juicy感, 又有軟身麪包,令熱狗食出唔同層次感受,自己就係喜愛甜的熱狗~…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static6.orstatic.com/userphoto2/photo/2F/1X25/0DN3BL07348C34669D5867mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto2/photo/25/1PJO/0C5NZHB677A65C910F9241mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static5.orstatic.com/userphoto/photo/D/AWG/025IQ8B94DCBD69AC3209Dmx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-10T15:37:34.775083"
+  }
+}

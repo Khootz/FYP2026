@@ -1,0 +1,47 @@
+{
+  "cached_at": "2026-02-10T15:22:20.915926",
+  "query": "Starbucks",
+  "data": {
+    "query": "Starbucks",
+    "matched": true,
+    "confidence": 0.9,
+    "name": "Starbucks (Midfield Concourse)",
+    "openrice_id": "starbucks-chek-lap-kok-american-r840139",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-starbucks-chek-lap-kok-american-r840139/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "機場的咖啡店都幾星光熠熠，Blue Bottle，Arabica......不過都係人山人海， 為免耽誤行程只可放棄。最後選了Starbucks，聖誕版薄荷朱古力咖啡， 這是薄荷朱古力關注組大推的飲品， 請店員加上 額外的薄荷糖漿， 結果這杯意外地好喝，夠哂「薄朱」 薄荷味道非常重手，只是甜度高了一些， 咖啡味亦都相當平衡。可惜的是不知怎的店員沒有給我聖誕版杯子， 還以為…Read More",
+      "今日同🤴🏻去東京旅行🎉🎉，之前睇到用某信用卡💳可以$1係機場starbucks 買到一個餐，但有限額、1日1次同指定款式，同🤴🏻過黎睇吓仲有冇得換😝😝～～～芝心腸烤卷～～～單買要$39，包面加上少少芝士🧀️再加熱，未有拉絲效果但芝士味都OK😊😊，個包同條腸就普通咗啲，另外會跟埋一包蕃茄醬🥫！😀😀～～～凍caffe mocha + cream～～～單買要…Read More",
+      "抹茶星冰樂.,濃郁茶香的完美夏日選擇  星巴克的抹茶星冰樂一直是我夏天的首選。濃郁的日式抹茶風味與冰沙口感完美融合，甜度適中，不會掩蓋茶香。上層的鮮奶油增添滑順口感，讓整體層次更豐富。推薦加一份鮮奶或豆奶，風味更柔和。對於喜愛抹茶的人來說，這杯飲品絕對不容錯過！…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2O/24AS/0F2KNI03097E27C71C30A3mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2J/209S/0E9XMV1FE1B09608C84A8Fmx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2H/1YEV/0DWPQN90BFD667DDAF3805mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-10T15:22:01.895707"
+  }
+}

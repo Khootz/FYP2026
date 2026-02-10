@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-10T16:12:49.841936",
+  "query": "UniBistro & Bar",
+  "data": {
+    "query": "UniBistro & Bar",
+    "matched": true,
+    "confidence": 1.0,
+    "name": "UniBistro & Bar",
+    "openrice_id": "unibistro-bar-sai-kung-mediterranean-r644529",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-unibistro-bar-sai-kung-mediterranean-r644529/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "今日食左個中式羊膝，估吾到西餐可以做到咁嘅水準😋😋 隻羊膝大隻，豆腐卜超入味，啲汁餸飯一流！！之前食過佢嘅雞煲，都好好味！！德國咸豬手吾洗講，簡直係必食。我都好鬼鐘意食佢啲Pizza同雞卷架！🤣🤣🤣…Read More",
+      "入到大學，想搵間清清靜靜又環境舒適嘅餐廳，距離普通嘅飯堂比較遠，同價錢比較貴，所以小人來到，今晚來到連我有3枱客人，首先我地叫左一份牛扒晚餐，頭盤有沙律，餐湯，餐包 （有驚喜）, 主食牛扒配薯蓉就不過不失，甜品佢話係雞蛋仔，聽起上嚟就唔係好吸引，但上甜品時係雞蛋糕仔伴碟好有誠意，餐飲原本想飲凍檸茶，但原來凍飲要加十蚊，所以都係…Read More",
+      "訂了1點，2位，去到餐廳以為自己去錯地方，一個客人都無，去到1點半左右先有多2枱客人，唔知係唔係因為週末Brunch的價錢算是合理，一個主菜連沙律吧，200蚊以下，沒有加一，不過服務幾好，而且有2小時免費泊車👍沙律吧選擇不是太多，味道也是一般，火腿都幾咸主菜選了all day breakfast和三文魚班尼迪蛋，賣相正常，味道也是一般最初以為餐廳退步了…Read More",
+      "（$158)牛扒完全咬唔開，簡直是訓練牙力，不過我個朋友食燒雞就覺得是正常味道水準，沙拉我覺得好難食，d 菜有草腥味，煙三文魚同南瓜湯正常，因為唔想浪費食物，我最後是用南瓜湯浸菜先食到，水果都正常但是無曬西瓜得翻菠蘿。其實牛扒調味正常，但是真是好難咬開，我連用刀都切得幾辛苦，明明看落煎得幾好（medium)，薯菜就正常好食。我覺得科技…Read More",
+      "這其實是大學𥚃面那酒店的咖啡廳，不是它的主餐廳，所以食物質素一般而已，但它也有一個小酒吧，夏季時看著無敵海景，一定很不錯。“nachos”，那芝士不足夠也不均勻，味道還可的，不過這種罐頭食物，也不會錯得那𥚃去，而且那牛油果醬味道和蕃茄碎味道都ok，合格。“慢煮美國側腹牛扒”，剛剛切下去有點困難，以為它很韌，但它是慢煮的，怎知原來是刀有…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static8.orstatic.com/userphoto2/photo/2C/1UMY/0D5VBZ5A8F722E25E5A148mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2L/21WM/0ELK1V97CC1C6878D9CF1Dmx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto2/photo/2C/1US6/0D6WG6FC1FD30D4A7B0306mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-10T16:12:30.335467"
+  }
+}

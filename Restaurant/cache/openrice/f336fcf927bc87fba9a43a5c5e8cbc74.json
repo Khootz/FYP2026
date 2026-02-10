@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-08T20:30:53.767082",
+  "query": "McDonald",
+  "data": {
+    "query": "McDonald",
+    "matched": true,
+    "confidence": 0.9,
+    "name": "McDonald's (Kowloon MTR Station)",
+    "openrice_id": "mcdonalds-tsim-sha-tsui-american-hamburger-r19628",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-mcdonalds-tsim-sha-tsui-american-hamburger-r19628/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "最近麥當勞嘅巨無霸成為咗風頭躉，因為佢哋除咗係以前一般嘅巨無霸之外，佢哋而家出咗一個雞肉嘅巨包，上次食過雞肉嘅巨無霸，感覺其實係一般般，所以其實麥當勞搞咁多新意思，其實都冇乜用。今日我食返最原始嘅牛肉巨無霸，兩款巨無霸嘅比較，牛肉巨無霸的確嘅肉肉感覺係好啲，因為雞肉同巨無霸嘅配合完全係唔算太夾，所以其實最終嚟講巨無霸都係舊…Read More",
+      "又是奇奇怪怪的新品￼姜汁豆奶派我觉得还可以，中心论点是他不是很甜！🫚是淡淡的生姜味和淡淡的豆香味，不甜不腻的在口中散开，算是无功无过吧￼巨无霸还真别说，看着还有点小😅。两层的大肉饼饱含汁水，吃着还挺满足的🍖麦乐鸡还是一如既往滴好吃…Read More",
+      "又黑雨又係緊急狀態，喺圓方想買一杯熱咖啡都好難，好多鋪頭都冇開到，好彩記得仲有一間麥當勞喺九龍機鐵站地下，$25一杯熱齋啡，雖然人流好多，要排一陣隊，但係有得飲，都已經算好好彩…Read More",
+      "AB 崗開始左幾個星期老闆的育成計劃又來了主因係有同事無啦啦講話要飲龍蝦湯開始老闆興起就又請我地最後係APP 叫左4份龍蝦湯及4份脆辣雞翼（2隻）脆辣雞翼（2隻）今日的雞翼炸得過火了還是因為他們番炸了雞肉乾巴巴的比平時的一點也不juicy…Read More",
+      "這是在地鐵站的McDonald’s店仔細細，人手不多但都算effective 有些食物是無的，例如麥炸雞上蓋的圓方，餐廳好早就關了，唯有去這間M記，開到11pm買了兩個火腿芝士包，熱辣辣也不錯的…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2R/26V9/0FKUED3124188505090A09mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2I/1ZQ3/0E61IQF52FE93280341C53mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto2/photo/2B/1TX8/0D0SFAC6D2B2CADD46A0B6mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-08T20:30:22.706720"
+  }
+}

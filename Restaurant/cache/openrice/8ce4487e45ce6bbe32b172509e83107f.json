@@ -1,0 +1,43 @@
+{
+  "cached_at": "2026-02-10T15:41:38.140019",
+  "query": "Saizeriya_TKO",
+  "data": {
+    "query": "Saizeriya_TKO",
+    "matched": true,
+    "confidence": 0.85,
+    "name": "Saizeriya",
+    "openrice_id": "saizeriya-lam-tin-italian-pizza-r1007200",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-saizeriya-lam-tin-italian-pizza-r1007200/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [],
+    "images": [
+      {
+        "url": "https://static5.orstatic.com/userphoto3/photo/2V/29JD/0G3TU83DC4CA3F0CF58294mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2V/29JD/0G3TU3321CAD693E4AC061mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2V/29IH/0G3NET62224266FAF50983mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-10T15:41:22.090055"
+  }
+}

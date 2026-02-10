@@ -1,0 +1,45 @@
+{
+  "cached_at": "2026-02-09T17:25:01.637635",
+  "query": "譚仔三哥 TamJai SamGor",
+  "data": {
+    "query": "譚仔三哥 TamJai SamGor",
+    "matched": true,
+    "confidence": 0.7,
+    "name": "Tamjai Samgor (Mangrove)",
+    "openrice_id": "tamjai-samgor-hung-hom-yunnan-noodles-rice-noodles-r810249",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-tamjai-samgor-hung-hom-yunnan-noodles-rice-noodles-r810249/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "📌 譚仔三哥 - 紅磡馬頭圍道68號曼翹地下B號舖🗓(13/8) 星期日 ⏰ 中午12:30左右    💈特式：瞓醒諗唔到食咩，就落街求其搵間野食，經過譚「兒子」三哥見到佢地出左個新野，水煮湯軟殼蟹米線，而且馬頭圍道呢間開左張一陣子我都未去過，就去試下新米線啦。🥩🍔🌭🌮🥗🥯🥘🍲🍝🍣🥟🍤🍱食物：我地兩個人去食，我叫左新出產品米線，另一半就覺得原…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2Y/2CDF/0GNZFB713FFA3E6B1E47C7mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2M/22MU/0EQQGPF83B74A279397712mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto2/photo/2F/1XB4/0DOV5QFB1119D2524E9F82mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-09T17:24:45.336134"
+  }
+}

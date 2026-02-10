@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-09T17:25:16.862230",
+  "query": "金飯碗美食 Gold Rice Bowl Delicious Food",
+  "data": {
+    "query": "金飯碗美食 Gold Rice Bowl Delicious Food",
+    "matched": true,
+    "confidence": 0.85,
+    "name": "金飯碗美食",
+    "openrice_id": "%E9%87%91%E9%A3%AF%E7%A2%97%E7%BE%8E%E9%A3%9F-sai-kung-hong-kong-style-ramen-r25426",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-%E9%87%91%E9%A3%AF%E7%A2%97%E7%BE%8E%E9%A3%9F-sai-kung-hong-kong-style-ramen-r25426/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "是日同朋友去小夏威夷徑行山，落到黎就係科大，於是去左科大搵野食。上一次去科大應該都成8年前左右，完全唔認得路亦唔知邊度有野食。望下地圖其實選擇不多，於是就走去最平既canteen LG7度食。呢度其實有幾個suppliers，同朋友不約而同都食拉麵。如圖。其實唔會好難食，不過亦唔係好食啦當然。唯一特點就係平，我雞扒加豬軟骨拉麵$30，朋友個…Read More",
+      "今日同d friend入UST打波打波前先去canteen食個Lunch以前未嚟過UST 覺得canteen應該間間U都差唔多架啦一睇個menu 覺得呢度款式多好多鍾意食辣既我見到有水煮牛就叫左嚟試啦佢可以揀配麵或者菜飯 我就揀左上海麵麵既份量都幾多 最後都食唔曬水煮牛唔會淨係比好多辣椒你 牛肉份量都算多牛肉用上雪花肥牛 肥瘦適中 食落唔會覺得鞋辣度雖然冇得調整 但我…Read More",
+      "不要吃滑蛋豬排飯～～～～～～～～～～～食物：滑蛋豬排飯滑蛋：味道很怪，好像有芥末味。滑蛋破壞整個飯。我本身很喜歡吃蛋的，但這個蛋真的很難食。最後我還要將蛋分開才吃豬排：不算太好食，以這個價錢這樣的質量也差不多～～～～～～～～～～～～～～～～～～～～～～～～金飯碗其他東西其實都可以，例如陽春麵等、蒸飯、兩／三餸飯…Read More",
+      "温書温唔停考完試就放心食番餐翡冷翠辣肉腸意式包 $29此為金兜新品，辣肉腸偏鹹,上頭有芝士奶脂香十分香口，意式包脆口，成個包用左pizza嘅制法，不過就真係過鹹了日式咖喱豬扒飯 $28日式咖喱帶甜微辣,入口先有香甜味道，然後辛味再慢慢湧出，味覺刺激感十足，豬扒肉質鬆，外表炸皮於剛上碟時十分鹹香脆口，不過後來被咖哩汁…Read More",
+      "識食一定食金飯碗因為識食先唔會揀中啲伏而識叫啲好野食作為大家口中既伏其實佢都好唔少好食既野既首先就係拉麵類因為快得黎都有好多選擇我個人比較中意食牛肉拉麵因為可以食到打邊爐質素既肥牛真係算係咁其次佢既焗飯系列都幾好碟頭大得黎又足料係咸左少少不過性價比算係幾高係科大入面一個唔錯既選擇…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static5.orstatic.com/userphoto2/photo/1H/16AX/08CTS47B3B64A912456AA2mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto2/photo/1H/16AX/08CTRZ9CC9C920D49D5B75mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto/photo/R/LD3/047X85CCEAD4A5E5098002mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-09T17:25:00.696588"
+  }
+}

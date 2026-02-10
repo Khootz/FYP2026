@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7623d78bd7f0fd4261290900f2b1194a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+        <div style="position: fixed; bottom: 50px; left: 50px; z-index: 1000; 
+                    background-color: white; padding: 10px; border-radius: 5px;
+                    border: 2px solid gray; font-size: 12px;">
+            <h4 style="margin: 0 0 10px 0;">Health Score Legend</h4>
+            <p>🟢 <b>Healthy</b> (75-100)</p>
+            <p>🟠 <b>Moderate</b> (50-74)</p>
+            <p>🔴 <b>Indulgent</b> (0-49)</p>
+        </div>
+        
+    
+            <div class="folium-map" id="map_7623d78bd7f0fd4261290900f2b1194a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7623d78bd7f0fd4261290900f2b1194a = L.map(
+                "map_7623d78bd7f0fd4261290900f2b1194a",
+                {
+                    center: [22.316671, 114.2659053],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_450ecc4d4560d6c12ecec24cec3464c0 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_450ecc4d4560d6c12ecec24cec3464c0.addTo(map_7623d78bd7f0fd4261290900f2b1194a);
+        
+    
+            var marker_876baa296684eeebec9061e39660e705 = L.marker(
+                [22.316671, 114.2659053],
+                {
+}
+            ).addTo(map_7623d78bd7f0fd4261290900f2b1194a);
+        
+    
+            var icon_1f238f513c3ebdec03a3029d000bdecf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "black",
+  "iconColor": "white",
+  "icon": "user",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_30cc52facf86ce6a106ebc05c0f2fc62 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9bf8b042cade3ede9e6b822b69cfdbef = $(`<div id="html_9bf8b042cade3ede9e6b822b69cfdbef" style="width: 100.0%; height: 100.0%;">📍 Your Location</div>`)[0];
+                popup_30cc52facf86ce6a106ebc05c0f2fc62.setContent(html_9bf8b042cade3ede9e6b822b69cfdbef);
+            
+        
+
+        marker_876baa296684eeebec9061e39660e705.bindPopup(popup_30cc52facf86ce6a106ebc05c0f2fc62)
+        ;
+
+        
+    
+    
+            marker_876baa296684eeebec9061e39660e705.bindTooltip(
+                `<div>
+                     You are here
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_876baa296684eeebec9061e39660e705.setIcon(icon_1f238f513c3ebdec03a3029d000bdecf);
+            
+    
+            var circle_6977f923ad9f2a7b1e23eb8a1c9b797a = L.circle(
+                [22.316671, 114.2659053],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 3}
+            ).addTo(map_7623d78bd7f0fd4261290900f2b1194a);
+        
+    
+        var popup_9ac73e8841738e4ff14c7d405459f09e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a53c5d03b8449758e3e9ad94b419be2 = $(`<div id="html_9a53c5d03b8449758e3e9ad94b419be2" style="width: 100.0%; height: 100.0%;">Search radius: 2000m</div>`)[0];
+                popup_9ac73e8841738e4ff14c7d405459f09e.setContent(html_9a53c5d03b8449758e3e9ad94b419be2);
+            
+        
+
+        circle_6977f923ad9f2a7b1e23eb8a1c9b797a.bindPopup(popup_9ac73e8841738e4ff14c7d405459f09e)
+        ;
+
+        
+    
+    
+            var marker_cluster_d0ed621897f70cb511aacc6730a6d7f4 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var marker_18ed0aedce237ef57b2702e172b6f0f1 = L.marker(
+                [22.314592800403698, 114.26523680000001],
+                {
+}
+            ).addTo(marker_cluster_d0ed621897f70cb511aacc6730a6d7f4);
+        
+    
+            var icon_111c9d48fcee167c6d808b4933a0efc9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "gray",
+  "iconColor": "white",
+  "icon": "utensils",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e000965f1e829d9d52b6931d6d299b6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2e87a47b80eccf1a5a4cdc88db65b15d = $(`<div id="html_2e87a47b80eccf1a5a4cdc88db65b15d" style="width: 100.0%; height: 100.0%;">             <div style="width: 250px;">                 <h4 style="margin: 0 0 10px 0;">1. 牛奶冰室 Milk Cafe</h4>                 <p><b>Distance:</b> 240m (0.24 km)</p>                 <p><b>Address:</b> Milk Cafe</p>                 <p><b>Cuisine:</b> general</p>                 <p><b>Health Score:</b> 50/100</p>                                                                </div>             </div>`)[0];
+                popup_2e000965f1e829d9d52b6931d6d299b6.setContent(html_2e87a47b80eccf1a5a4cdc88db65b15d);
+            
+        
+
+        marker_18ed0aedce237ef57b2702e172b6f0f1.bindPopup(popup_2e000965f1e829d9d52b6931d6d299b6)
+        ;
+
+        
+    
+    
+            marker_18ed0aedce237ef57b2702e172b6f0f1.bindTooltip(
+                `<div>
+                     1. 牛奶冰室 Milk Cafe (240m)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_18ed0aedce237ef57b2702e172b6f0f1.setIcon(icon_111c9d48fcee167c6d808b4933a0efc9);
+            
+    
+            marker_cluster_d0ed621897f70cb511aacc6730a6d7f4.addTo(map_7623d78bd7f0fd4261290900f2b1194a);
+        
+    
+            var layer_control_60499b7889058f09cc396fbb1eaea1ba_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_450ecc4d4560d6c12ecec24cec3464c0,
+                },
+                overlays :  {
+                    "Restaurants" : marker_cluster_d0ed621897f70cb511aacc6730a6d7f4,
+                },
+            };
+            let layer_control_60499b7889058f09cc396fbb1eaea1ba = L.control.layers(
+                layer_control_60499b7889058f09cc396fbb1eaea1ba_layers.base_layers,
+                layer_control_60499b7889058f09cc396fbb1eaea1ba_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_7623d78bd7f0fd4261290900f2b1194a);
+
+        
+</script>
+</html>

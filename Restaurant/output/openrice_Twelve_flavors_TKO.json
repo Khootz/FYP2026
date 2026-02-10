@@ -1,0 +1,45 @@
+{
+  "query": "Twelve flavors TKO",
+  "matched": true,
+  "confidence": 0.85,
+  "name": "Twelve Flavors",
+  "openrice_id": "twelve-flavors-mong-kok-sichuan-r866273",
+  "openrice_url": "https://www.openrice.com/en/hongkong/r-twelve-flavors-mong-kok-sichuan-r866273/",
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": {
+    "rating": null,
+    "review_count": null,
+    "smile_count": null,
+    "cry_count": null
+  },
+  "review_texts": [
+    "總結：食物香，麻辣，食材新鮮，份量大，價錢抵，個位幾好坐，服務正常。相當推薦。叫左嘅菜式有：1. 牛肉雞翼香鍋（1人餐）- 前菜揀左雲耳；個鍋中辣；有一個白飯跟；有冰粉跟；飲品揀左熱情果梳打2. 毛血旺-中辣挑剔位：1. 佢無問過野就冰粉同前菜一齊上左先食到2. 食到後面（9成左右），似乎因為佢就收鋪，收左壺水（但又係無問仲要唔要）價錢：加一…Read More",
+    "十二味你有这么香喷喷的川菜进入香港…🤤吃辣星人真的有被爽到]P1 飘香毛血旺份量真的好大，里面有午餐肉、鸭血、肥肠、毛肚、鱿鱼等等，超级丰富的配菜，味道够香够辣P2 招牌香辣锅自选配料，我们加了鸡翅、肥牛、土豆、宽粉、排骨，土豆特别绵密！食材都很入味！P4 麻婆豆腐嫩滑无比，超级下饭，肉沫很多分量也不小！P5 老面小笼包会透油…Read More",
+    "十二味，主打新派川菜，包括麻辣香鍋、酸菜魚、川式小吃，外賣自取有88折優惠。酸辣無骨鳳爪：酸味和辣味調教得恰到好處，油香滿滿，簡直係味覺既享受。夫妻肺片：薄切得好大片，有牛肚、牛𦟌、牛舌，肉質爽口，灑上芝麻和芫茜，十分惹味。小酥肉：豬肉經過切條和酥炸後，外皮酥脆，內裡軟嫩，每一口咬下去，都能感受到豬肉既鮮美。嵊州老面小籠…Read More",
+    "最近午餐去咗旺角嘅十二味食川菜😍可能因為地理位置嘅問題,所以我哋一入到去人流唔算好多,座位好寬敞｡但係佢係正網吧隔離🤐門口煙頭都幾多下🤐@twelveflavors 🍱 人見人愛酸菜魚(跟餐有白飯)👉🏻魚肉係鱸魚嚟,肉質鮮嫩,無咩骨👉🏻配料都有好多,有酸菜､杏鮑菇､蘿蔔🍱惹味跳跳蛙 (跟餐有白飯)👉🏻牛蛙啲肉好新鮮嫩滑,肉質肥美飽滿 🍱嵊州老麵小籠包👉🏻肉汁…Read More",
+    "不愧是港漂圈认证的排队王🔥午市套餐完全物美价廉 打工人&学生党快冲！钱包和胃都被狠狠治愈了😭🔥必点❗️自选麻辣香锅我最常点的是少油小辣🌶️调味刚刚好！不会很油腻～ 锅底香到能拌三碗饭！！强推加午餐肉+台湾鱼腐+嫩牛肉+鹌鹑蛋+土豆片！！午餐肉煎得焦香，鱼腐会爆浆💥嫩牛肉滑到筷子都夹不住！！是真的一周不吃会思念的程度🍜葱油拌面…Read More"
+  ],
+  "images": [
+    {
+      "url": "https://static7.orstatic.com/userphoto3/photo/2Q/25KI/0FBLXY8BB4B79471293C36mx.jpg",
+      "alt": "",
+      "is_main": true
+    },
+    {
+      "url": "https://static7.orstatic.com/userphoto3/photo/2P/24U5/0F6EFYAAC55CC5604247E7mx.jpg",
+      "alt": "",
+      "is_main": false
+    },
+    {
+      "url": "https://static5.orstatic.com/userphoto3/photo/2T/27TD/0FRKWCDE83AA3807B79EF1mx.jpg",
+      "alt": "",
+      "is_main": false
+    }
+  ],
+  "main_image": null,
+  "scraped_at": "2026-02-08T20:26:43.907895"
+}

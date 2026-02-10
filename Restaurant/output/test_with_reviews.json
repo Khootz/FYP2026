@@ -1,0 +1,41 @@
+{
+  "query": "Tam Jai HKUST",
+  "matched": true,
+  "confidence": 0.5,
+  "name": "TamJai SamGor (HKUST)",
+  "openrice_id": "tamjai-samgor-sai-kung-yunnan-r888010",
+  "openrice_url": "https://www.openrice.com/en/hongkong/r-tamjai-samgor-sai-kung-yunnan-r888010/",
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": {
+    "rating": null,
+    "review_count": null,
+    "smile_count": null,
+    "cry_count": null
+  },
+  "review_texts": [
+    "比出面d譚仔三哥難食，餐具有異物。對比其他科大餐廳哩講算垃圾。所以如果你急時間就可以去食(唔駛排隊)。但係如果你想歎就排其他啦。科大有咁多餐廳點解睇唔開食譚仔。PS: 次次食完都要炆屎(但係食出面d三哥唔會)。…Read More"
+  ],
+  "images": [
+    {
+      "url": "https://static5.orstatic.com/userphoto3/photo/2Y/2CAV/0GNHBW5C902FBD7470C19Cmx.jpg",
+      "alt": "",
+      "is_main": true
+    },
+    {
+      "url": "https://static6.orstatic.com/userphoto3/photo/2W/2AFK/0GA6T138AD19C144461ECBmx.jpg",
+      "alt": "",
+      "is_main": false
+    },
+    {
+      "url": "https://static5.orstatic.com/userphoto3/photo/2W/2AFK/0GA6T06A1BEA670C6B7BBDmx.jpg",
+      "alt": "",
+      "is_main": false
+    }
+  ],
+  "main_image": null,
+  "scraped_at": "2026-02-08T20:21:20.666591"
+}

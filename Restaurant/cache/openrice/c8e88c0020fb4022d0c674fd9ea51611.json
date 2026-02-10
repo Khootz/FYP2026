@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-09T17:25:53.579767",
+  "query": "Café de Coral",
+  "data": {
+    "query": "Café de Coral",
+    "matched": true,
+    "confidence": 0.9,
+    "name": "Café de Coral (Argyle Centre Phase I)",
+    "openrice_id": "cafe-de-coral-mong-kok-hong-kong-style-meatless-menu-r6617",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-cafe-de-coral-mong-kok-hong-kong-style-meatless-menu-r6617/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "大家樂嘅一人壽喜燒鍋返嚟啦，想食啲暖笠笠嘅嘢，一個托盤擺滿所有嘢，份量對一個人來講相當足夠。🍲 是日菜式如下：一人壽喜燒鍋典型嘅壽喜燒湯，味道標準。鍋料都幾豐富，有肥牛片、金菇、豆腐、白菜同芋絲，滾起之後熱氣騰騰。肥牛片輕輕一涮，送飯一流，合格有餘。童年回憶嘅雪糕紅豆冰雲呢拿雪糕慢慢融化喺冰凍嘅紅豆冰裏面，甜度適中，紅豆起…Read More",
+      "大家樂新推出嘅焗飯🤣🤣龍蝦汁天婦羅軟殼蟹豬扒焗飯份量好驚喜竟然食到濃郁香滑嘅龍蝦汁好享受～整隻軟殼蟹炸到金黃酥脆，咬落去內裡嫩滑大大塊豬扒肉嫩帶焦香，仲貼心俾多個碟仔切開食真材實料🔥趁熱食又脆又鮮入面有脆瓜番茄解膩飯底係雞蛋炒過嘅口感豐富🍚紅豆綿軟起沙💖…Read More",
+      "大家樂的龍蝦汁天婦羅軟殼蟹豬扒焗飯一在大家樂門口見到這個, 便馬上衝了入去試, 因為焗豬扒飯本身已經經典好再加上龍蝦汁﹑天婦羅和軟殼蟹, 完全是升級到天花板, 一個焗飯可以豪華到咁樣, 馬上一試究竟, 結果是挺不錯的, 焗豬扒飯一如以往, 沒有讓人失望, 番茄醬味道濃郁但不過搶, 沒有蓋過豬扒的風頭, 反而跟豬肉的香味完美搭配, 肉味好鮮, 沒有雪氣味, 解凍功夫…Read More",
+      "位於旺角的大家樂再次帶來份量十足的驚喜！這次試的是他們的早餐牛扒炒麵加雞扒和魚柳，炒麵炒得乾身不油，帶有微微鑊氣，牛扒煎得香口，肉質尚算嫩滑。雞扒外脆內嫩，魚柳則炸得金黃酥脆，配上沙律醬更添滋味。整體味道豐富，份量十足，令人飽足又滿足。 環境： 店內整潔明亮。 價格： 早餐套餐價錢合理，性價比高。 食物質素： 食材新鮮，煎炸火候適…Read More",
+      "在大家樂的菜單中，升Cup芒柚百香果晶球是一道令人垂涎的甜品。這道甜品的外觀色彩繽紛，晶瑩剔透的球體裡包裹著新鮮的芒果和百香果果肉，散發著濃郁的果香。每一口都能感受到果汁的清新與酸甜，讓人心情愉悅。它不僅味道美味，還充滿了夏天的氣息，讓人彷彿置身於熱帶海灘。這道甜品的價格也相當親民，只需 $28，實在是享受美食的好選擇。無論是與…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2X/2BMZ/0GIRDA923657159A98378Cmx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2U/299H/0G1VJT9FC8C1D3A2D04DCEmx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2T/28IR/0FWLEU993EE2E677A4ABA5mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-09T17:25:38.047467"
+  }
+}

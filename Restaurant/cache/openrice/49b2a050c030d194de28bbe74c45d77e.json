@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-09T17:23:14.813096",
+  "query": "Hungry Korean",
+  "data": {
+    "query": "Hungry Korean",
+    "matched": true,
+    "confidence": 0.9,
+    "name": "Hungry Korean (渣甸中心)",
+    "openrice_id": "hungry-korean-causeway-bay-korean-korean-fried-chicken-r139823",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-hungry-korean-causeway-bay-korean-korean-fried-chicken-r139823/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "裝修整理，食物衛生，員工都十分禮貌，配合K-Pop音樂食韓國當地家鄉食物，真係好似去咗韓國咁。服務方面，餐廳的服務生熱情而周到，隨時關心我們的需求，並且對菜品的推薦非常專業。他們對每道菜的介紹都充滿熱情，讓人倍感親切。…Read More",
+      "很久沒來，經過便再試試。 叫了牛肉鍋飯和辣炒豬肉飯。牛肉份量是真的小，與價格是成正比的。 幸好蔬菜類都多，對於我需要多菜少肉是足夠的。反而豬肉片份量可以。 當然以這價格是沒要求了。…Read More",
+      "甜雞肉配椰菜，很熱辣辣新鮮既，雞肉很滑，椰菜好味，送飯都係一樣咁好味。炸雞塊每件都炸得很美麗，外脆，內嫩滑，點上蜜糖芥末醬，更加惹味。這點的食物都是新鮮製造，而且價錢合理，所以值得幫襯。…Read More",
+      "外賣送上屋企，份量少得可憐已經唔想多講，專登攞咗一包紙包檸檬茶作對比。未試過叫外賣食完之後要煮多個公仔麵😤😤😤😤😤😤泡菜雞肉年糕堪稱係一個午餐，年糕大約有六條，所謂的雞肉我見唔到，只食到一片片好薄，好似魚片的味道。奈何薄薄的魚片都只有四片。慶幸的有隻烚雞蛋，食完完全冇嘢落肚嘅感覺。韓式炒粉絲味道正宗，成為$64 蚊，份量…Read More",
+      "呢一間分店有好多唔同地方都有，今日終於試到銅鑼灣呢一間，同朋友喺附近shopping, 之後就行咗嚟呢一邊搵食，見到呢一間餐廳有下午茶餐，所以就決定入去試吓🙈🙈 價錢都非常親民，而且喺同區嚟講，我覺得都算係比較便宜🙈🙈 所以就決定入去試一下辣炒年糕非常入味，食到韓國辣醬嘅味道，而且連到煙煙韌韌絕對係我哋嘅最愛🙈🙈 下午茶餐呢一個價錢…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2Z/2CM4/0GPPEJC6DD3A056AE0E0C8mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2V/29MI/0G4G55A258502B09556E53mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2Q/2627/0FF3SVE8CCAAB342FCE4D6mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-09T17:22:56.114285"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-10T15:23:05.637248",
+  "query": "Tim Ho Wan",
+  "data": {
+    "query": "Tim Ho Wan",
+    "matched": true,
+    "confidence": 0.9,
+    "name": "Tim Ho Wan Dim Sum Specialist",
+    "openrice_id": "tim-ho-wan-dim-sum-specialist-tai-koo-hong-kong-style-dim-sum-r1020868",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-tim-ho-wan-dim-sum-specialist-tai-koo-hong-kong-style-dim-sum-r1020868/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "It was a scrumptious late lunch we had today at this conveniently located branch in Cityplaza. It had been our fourth visit since its opening. As we chose to go there around 3 pm, we didn’t need to wait to be seated. Interesting to note around us sat several tourists, including a French family, showing good skills at using chopsticks and tucking into their food. Today’s special w…Read More",
+      "同屋企人過嚟等位，撞正lunch hour，都預咗要等嘅，但係經理完全唔識管理啲座位，係咁入四人枱同五人枱，話二人枱要等，明明四人枱可以拆做兩張二人枱入，經理話要等，最吾爽係到左10分鐘都無既嘅五人枱都入左去，我哋同前面嗰對老人家都等到好耐，最後要我哋同佢講佢先肯拆張四人枱比我哋兩張二人入，已經成肚氣。講返嘢食，以前都有食過添好運，…Read More",
+      "早幾日到添好運品嚐點心早餐，整體感覺中規中矩，未見驚喜。蘿蔔糕粉感偏重，煎得不夠香脆，蘿蔔絲份量稀少，口感鬆散欠彈性。黑松露餃皮薄餡足，但松露香氣薄弱，味道搭配未如理想。紅油抄手算係全餐最佳，辣味調校得宜，辣中帶香，抄手體型飽滿，可惜內餡肉味偏淡，未夠濃郁。環境尚算舒適，服務效率不錯。然而，以同等價位而言，坊間確實有更多…Read More",
+      "畀多次機會呢間添好運, 星期六兩點來等2人位, 等了約廿分鐘, 眼見遲過我到的四人已入坐, 亦見到四人位未人齊(只有兩人到）也入坐了, 也見到店內把擠迫的三人坐在二人桌的顧客拼了一張走了的二人桌讓客人坐得舒適些（但不明白當初為何要客人擠到小桌？？）.  但我二人卻要等廿分鐘.  其實未到齊人的四人坐是可拆開兩桌二人的.到入坐後, 才發現坐旁邊二人桌坐沙…Read More",
+      "食飯時間以為唔使等位係好彩，原來係有原因的。Order 左4個，首先來的生菜係冇味的，再來的蝦餃細細隻不過都算爽。跟住义燒飯就出事，條菜梅梅地唔敢食，隻蛋個様唔好講，係凍的，义燒係又乾又柴，飯都唔熱，豉油質素勁⋯⋯差。最後個生竹牛肉，應該係雪左好耐的牛肉加好多粉⋯⋯唯有做大𨺗鬼⋯⋯…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2Z/2CM5/0GPPJJ19171BBD70C76BE2mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2Z/2CM5/0GPPJEF83BAC7CD83A7A21mx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2Z/2CM5/0GPPJ9836AA9CE5D17CCCDmx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-10T15:22:49.481372"
+  }
+}

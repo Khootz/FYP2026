@@ -1,0 +1,17 @@
+{
+  "query": "Tai Cheong Bakery",
+  "matched": false,
+  "confidence": 0.0,
+  "name": null,
+  "openrice_id": null,
+  "openrice_url": null,
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": null,
+  "images": [],
+  "main_image": null,
+  "scraped_at": "2026-01-14T19:38:20.712276"
+}

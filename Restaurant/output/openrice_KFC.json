@@ -1,0 +1,45 @@
+{
+  "query": "KFC",
+  "matched": true,
+  "confidence": 1.0,
+  "name": "KFC",
+  "openrice_id": "kfc-tsim-sha-tsui-american-hamburger-r693576",
+  "openrice_url": "https://www.openrice.com/en/hongkong/r-kfc-tsim-sha-tsui-american-hamburger-r693576/",
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": {
+    "rating": null,
+    "review_count": null,
+    "smile_count": null,
+    "cry_count": null
+  },
+  "review_texts": [
+    "平但不靚正、我外賣$50/6件辣炸雞＇都預咗係唔熱㗎啦＇返到屋企食又冇味又唔辣得個脆完全唔係KFC嗰個炸雞＇係咪因為平所以要咁樣做出嚟呢？想食好食嘅炸雞啫丶即刻諗起KFC但係食到啲炸雞即刻冇嘢講、咁大嘅集團都係咁嘅出品😂😂😂😂冇計都唔知佢講咩好下次唯有搵啲好食啲嘅炸雞再食吓啦＇我終於發現做得好好唔好食、已經係我乜所謂最緊要有生…Read More",
+    "一個特殊嘅緣故，早左出門，去到尖沙咀辦點事，每天都會經過的KFC,今天早上俾佢既早餐吸引左我停低。本身比較少吃早餐嘅，我見到一份\"回憶\" 鬆餅，所以我馬上就點了蕃茄濃湯扭扭粉餐配滑蛋鬆餅。以一份$25嘅早餐嚟講，我覺得都中規中矩。1.蕃茄濃湯扭扭粉屬於小份，蕃茄味道也夠濃郁。2.鬆餅依舊鬆軟，表面還有些少蜜糖，幾惹味。3.滑蛋方面佢係屬…Read More",
+    "好久沒吃肯德基，中午到尖沙咀取證，順道進去快速午餐，叫B2餐再另外及2個蛋撻，有雞塊～雞翼～米飯～薯餅，送兩杯飲料，看起來好豐富！炸雞腿好多汁，但雞胸肉就好柴，薯餅一般般米飯不錯，兩杯可樂，時日消費135元，性價比高！…Read More",
+    "晨早遠征出尖沙咀，9點幾就到，都係為咗拎PASSPORT…點知條人龍長到…………橫掂有排等拎完籌搵地方食個靚早餐好了，近近地好在有間KFC，除咗平時脆卜卜炸雞，其實我更愛早餐有汁嘅家鄉雞﹗類似磨菇飯嘅味道，雖然唔辣但其實好惹味了﹗不可或缺嘅仲有焗鬆餅，KFC好奇怪，TEA TIME一時時有得買，早餐就必有鬆餅，幾蚊件鬆軟入味，蜜糖面軟滑內餡…Read More",
+    "同朋友嚟尖沙咀staycation，夜晚見肚餓就去左附近KFC買宵夜🤣🤣落去先知原來KFC出咗新口味，蜂蜜芥末脆雞，聽落好吸引😋即刻買來試試😂😂！我哋叫咗個蜂蜜芥末脆雞餐，加個蜂蜜芥末脆雞卷🥰蜂蜜芥末脆雞同平時一樣有兩隻雞，雞皮上面有啲蜂蜜芥末粉，咬落去蜜糖芥末味好出，酸酸甜甜好開胃😍但雞肉就冇乜蜂蜜味🫠不過kfc有另外配一盒蜂蜜…Read More"
+  ],
+  "images": [
+    {
+      "url": "https://c-vod.orstatic.com/tos-sgcomm1-v-4a5b5a09e1a01d2e-sg/ba200fdb94cc458db898f2275eff6b84~tplv-vod-noop.image",
+      "alt": "",
+      "is_main": true
+    },
+    {
+      "url": "https://static8.orstatic.com/userphoto3/photo/2W/2AHU/0GAMWZ4E7FB463604D72A9mx.jpg",
+      "alt": "",
+      "is_main": false
+    },
+    {
+      "url": "https://static7.orstatic.com/userphoto3/photo/2N/232T/0ETW36232253250A433DDBmx.jpg",
+      "alt": "",
+      "is_main": false
+    }
+  ],
+  "main_image": null,
+  "scraped_at": "2026-02-08T20:29:47.587526"
+}

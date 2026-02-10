@@ -1,0 +1,20 @@
+# Playwright Scraper (Current - Optimized)
+playwright==1.48.0
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Legacy Selenium (Not used anymore)
+# selenium==4.16.0
+# webdriver-manager==4.0.1
+
+# Basic HTTP (for fallback)
+requests==2.32.3
+
+# FastAPI Backend
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+python-multipart==0.0.12
+
+# Testing & CLI
+colorama==0.4.6

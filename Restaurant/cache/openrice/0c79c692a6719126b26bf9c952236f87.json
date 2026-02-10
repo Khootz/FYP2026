@@ -1,0 +1,48 @@
+{
+  "cached_at": "2026-02-09T17:24:57.022951",
+  "query": "can.teen II",
+  "data": {
+    "query": "can.teen II",
+    "matched": true,
+    "confidence": 0.5,
+    "name": "Pok Oi Hospital Canteen",
+    "openrice_id": "pok-oi-hospital-canteen-yuen-long-hong-kong-style-r42820",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-pok-oi-hospital-canteen-yuen-long-hong-kong-style-r42820/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "醫院往往比一種好sad的感覺，好彩，今次比我係博愛既canteen，遇上呢碟西炒飯，茄汁，香腸，蝦仁，火腿，加上葱粒，仿佛產生一種化學作用，使我感受到一口口甜絲絲的感覺。飯底軟硬適中，唔會炒到太乾，蝦仁夠香口，每一粒都有水份，火腿香腸香而不咸，加上蕃茄味！一碟好好食嘅西炒飯！…Read More",
+      "由於嫲嫲要到博愛醫院覆診，所以順道在他們的餐廳先吃過午餐才跟她覆診。湄南魚蛋湯河粉嫲嫲一向都喜歡吃魚蛋，所以她便點了一碗湄南魚蛋湯河粉。這碗魚蛋湯河粉裏的魚蛋比我們想像中還要多一點，還有一件像是鮮竹卷的東西。嫲嫲説魚蛋爽口彈牙之外，還有魚香味，像是鮮竹卷的東西也不錯，只是河粉碎了一點，但整體味道比想像中還要好。公司三文治雖…Read More",
+      "大人入院做小手術,午餐時間護士小姐體貼地告知等候中的家屬們,因病人們有午餐提供,我們則可以先行到地庫的職員餐廳吃飯,並溫馨提示這雖說是員工餐廳但也接待訪客的,所以大家可以放心入內進餐。位處地庫的職員餐廳真是好大,畢竟要容納醫院裡大部份醫護人員及員工在同一時間午飯嘛,要是街外的餐廳有如此大的面積,真是不知租金若干了?? 如快餐店的先付款後…Read More",
+      "睇醫生順便食埋午餐。叫左個魚香茄子炒米。初時都驚好重口味。因為出面茶餐廳都好咸。好有穫氣.今次呢個明顯少油。少穫氣。賣相一般。味道咸淡適中。幾好食。比外面餐廳來得健康吧！…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static5.orstatic.com/userphoto3/photo/2T/2880/0FUH1C33D019BA3C007007mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static5.orstatic.com/userphoto2/photo/1D/12YZ/07P4Q8F6914EFC2CC9023Cmx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto/photo/O/JA5/03T44HADF1604F5FE6E970mx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-09T17:24:38.965935"
+  }
+}

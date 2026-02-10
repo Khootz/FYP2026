@@ -1,0 +1,17 @@
+{
+  "query": "Pho TKO",
+  "matched": false,
+  "confidence": 0.0,
+  "name": null,
+  "openrice_id": null,
+  "openrice_url": null,
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": null,
+  "images": [],
+  "main_image": null,
+  "scraped_at": "2026-02-08T18:06:09.760146"
+}

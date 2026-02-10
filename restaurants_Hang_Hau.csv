@@ -1,0 +1,51 @@
+rank,name,distance_km,address,phone,website,price_level,rating,user_ratings_total,is_open_now
+1,KFC,0.1,"Shop E165A, 1/F, East Wing, TKO Gateway, Hau Tak Estate, Tseung Kwan O, Hong Kong",+852 2705 0002,https://www.kfchk.com/index.html,1,3.4,314,True
+2,Gyu-Kaku (East Point City),0.16,"8 Chung Wa Rd, Hang Hau, Hong Kong",+852 2918 4866,http://www.gyukaku.com.hk/,2,3.9,313,True
+3,Fari-beurre - 將軍澳東港城,0.2,"Tseung Kwan O, Chung Wa Rd, 8號, East Point City Block 2, 樓259A號舖, Hong Kong",+852 2314 0283,http://italiantomato.com.hk/,,4,4,True
+4,Pizza Hut Hong Kong,0.21,"樓199A號舖, East Point City Shopping Arcade, Chung Wa Rd, Tseung Kwan O, Hong Kong",+852 2671 8116,https://www.pizzahut.com.hk/tc/order,2,3.7,277,True
+5,MOS Burger,0.24,"8號 Chung Wa Rd, Hang Hau, Hong Kong",+852 3705 8428,http://www.mosburger-hk.com/,2,3.7,55,True
+6,Riverside Restaurant,0.28,"8 Chung Wa Rd, Tseung Kwan O, Hong Kong",+852 2336 6822,,2,3.5,472,True
+7,Bafang Dumpling,0.31,"15 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 2430 9018,https://www.facebook.com/8way.asia/?locale=zh_HK,1,3.5,85,True
+8,Fairwood,0.31,"15 Pui Shing Rd, Hang Hau, Hong Kong",+852 2856 4473,http://www.fairwood.com.hk/,1,3.5,591,True
+9,McDonald's (Maritime Bay),0.31,"18 Pui Shing Rd, Hang Hau, Hong Kong",+852 2274 4106,http://www.mcdonalds.com.hk/,1,3.4,934,True
+10,Sushi Express,0.32,"15 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 2703 9028,http://www.sushiexpress.com.hk/,1,3.7,63,True
+11,Maxim's MX,0.32,"將軍澳常寧路2號E151, Hong Kong",+852 2590 6208,http://www.maxims.com.hk/,2,3.5,391,True
+12,Tasteful Kitchen,0.32,"1 Ngan O Rd, Hang Hau, Hong Kong",+852 2703 1874,,2,3.6,524,True
+13,Tong Kee Bao Dim,0.33,"134, 15 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 2703 0336,,,3.6,60,True
+14,McDonald's (TKO Gateway),0.33,"TKO Gateway, 2 Sheung Ning Rd, Tseung Kwan O, Hong Kong",+852 2704 3722,https://www.mcdonalds.com.hk/,1,3.6,376,True
+15,Fika Restaurant & BAR,0.34,"No.24 Ground Floor Hang Hau Village, Tseung Kwan O, Hong Kong",+852 6313 9286,,2,4.4,375,True
+16,Grand Restaurant & Pub,0.34,"Tseung Kwan O, Hong Kong",+852 2335 5099,,2,3.5,365,True
+17,Snack Express,0.35,"Shop HAH14, Hang Hau Station Of Mass Transit Railway Cooperation, Hong Kong, 坑口, Tseung Kwan O, Hong Kong",,https://www.openrice.com/zh/hongkong/restaurants?chainId=10001361&chainName=Snack%20express%20,,3.4,26,True
+18,Hop Sze Restaurant,0.37,"Tseung Kwan O, 將軍澳坑口村5座地下至2樓, Hong Kong",+852 2719 6862,,2,3.3,407,True
+19,潮州冷美食坊,0.43,"Hang Hau, 安寧花園二座地下18-21號, Hong Kong",+852 2702 2008,,1,3.2,538,True
+20,Sushi Express,0.44,"Tseung Kwan O, Pui Shing Rd, 8號南豐廣場1樓R1A號舖, Hong Kong",+852 2276 4010,http://www.sushiexpress.com.hk/,1,3.5,428,True
+21,Cafe 100% (Nan Fung Plaza),0.44,"Hang Hau, Hong Kong",+852 2261 4100,,2,3.5,517,True
+22,TamJai Yunnan Mixian (Hang Hau),0.45,"Commercial Units A-51& A-52, G/F, Nan Fung Plaza No, 8 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 2275 4777,https://tamjaimixian.com/,1,3.5,367,True
+23,Café de Coral (Nan Fung Plaza),0.45,"8 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 2177 3095,http://www.cafedecoralfastfood.com/,1,3.4,729,True
+24,Wing Kee Noodle,0.48,"On Ning Garden Multi-storey Car Park, Sheung Ning Rd, Hang Hau, Hong Kong",+852 6800 2508,,,3.5,54,True
+25,Tao Heung Tea House,0.52,"Unit R-3, Podium Level 1, Nan Fung Plaza, R-3, No. 8, 8 Pui Shing Rd, Tseung Kwan O, Hong Kong",+852 8300 8167,https://www.taoheung.com.hk/tc/brands/pier_88/index.html,2,3.2,1146,True
+26,TamJai Yunnan Mixian (TKO Plaza),0.97,"Tseung Kwan O, 將軍澳將軍澳廣場 1樓96-100舖, Hong Kong",+852 2598 6466,https://tamjaimixian.com/,1,3.4,240,True
+27,Café de Coral,1.01,"一樓 1-009-013 號舖, 將軍澳廣場商場, 1 號 Tong Tak St, Tseung Kwan O, Hong Kong",+852 2207 4667,http://www.cafedecoralfastfood.com/,1,3.5,448,True
+28,Saizeriya (Tseung Kwan O Plaza),1.02,"Tseung Kwan O, Tong Tak St, 1號, Tseung Kwan O Plaza Tower 8, 號鋪HK 新界 將軍澳 將軍澳唐德街1號將軍澳廣場AEON將軍澳廣場店第2層L207, Hong Kong",,https://www.saizeriya.com.hk/?lang=zh-hant,1,3.7,840,True
+29,利强記北角雞蛋仔,1.06,"11號舖, 將軍澳港鐵寶琳站, Tseung Kwan O, Hong Kong",,,,2.6,32,True
+30,Super Super Congee & Noodles,1.06,"Tseung Kwan O, Tong Ming St, 2號尚德商場2樓239A號舖, Hong Kong",+852 2178 1129,http://supersuper.com.hk/,1,3.4,358,True
+31,Victoria Harbour Restaurant (Po Lam),1.1,"1 Wan Hang Rd, Hang Hau, Hong Kong",+852 2703 1860,,2,3.5,1280,True
+32,KFC,1.1,"Tseung Kwan O, Tong Chun St, 9號G61-62, Hong Kong",+852 2752 1200,https://www.kfchk.com/index.html,1,3.5,369,True
+33,BEANS The Backyard,1.12,"Tseung Kwan O, Tong Yin St, 9號PopCorn 1F95, Hong Kong",+852 2777 7009,http://www.beansgroup.hk/,2,4,610,True
+34,Tsui Wah Restaurant (Tseung Kwan O),1.12,"Tseung Kwan O, Sheung Tak Plaza, 地下1及2號舖, Hong Kong",+852 2760 8882,http://www.tsuiwah.com/zh/,2,3.5,516,True
+35,Tao Heung,1.12,"L2 新都城中心二期, 8 Yan King Rd, Tseung Kwan O, Hong Kong",+852 8300 8129,http://www.taoheung.com.hk/tc/home/index.html,2,3.4,711,True
+36,Putien,1.12,"F94, PopCorn Tseung Kwan O, Hong Kong",+852 2111 8778,https://www.putien.com/hongkong/en/,2,4.1,403,True
+37,Fairwood,1.12,"1 Wan Hang Rd, Metro City, Hong Kong",+852 2856 8692,http://www.fairwood.com.hk/,1,3.6,453,True
+38,Saizeriya,1.13,"Tseung Kwan O, Wan Hang Rd, 1號新都城中心一期地下G7, G16-24號舖, Hong Kong",,https://www.saizeriya.com.hk/?lang=zh-hant,1,3.8,836,True
+39,Pizza Hut (Metro City Plaza),1.14,"Shop 2071-72, 8 Yan King Rd, Tseung Kwan O, Hong Kong",+852 3194 5010,https://www.pizzahut.com.hk/tc/order,2,3.5,167,True
+40,尚德熟食,1.15,"Tseung Kwan O, Hong Kong",+852 6228 6203,,,3.3,7,True
+41,Lime Fish,1.15,"Sheung Tak Plaza, Tong Ming St, Tseung Kwan O, Hong Kong",+852 2572 8200,https://www.tasteofasia.com.hk/brand/lime-fish,2,3.3,238,True
+42,McDonald's (TKO Spot),1.18,"將軍澳將軍澳尚德邨尚德廣場2樓216號鋪, Hong Kong",+852 2178 0769,http://www.mcdonalds.com.hk/,1,3.4,486,True
+43,上海真美豆漿大王,1.18,"Tseung Kwan O, Mau Yip Rd, 8號新都城中心三期地下商舖G22, Hong Kong",+852 3194 3909,,1,3.5,314,True
+44,Genki Sushi,1.21,"Tseung Kwan O, Mau Yip Rd, 8號新都城中心2期2樓2084-2085號舖, Hong Kong",+852 2177 7698,http://www.genkisushi.com.hk/,2,3.6,375,True
+45,McDonald's (Verbena Heights),1.21,"Tseung Kwan O, 將軍澳茵怡花園地下1號舖, Hong Kong",+852 2997 0007,http://www.mcdonalds.com.hk/,1,3.4,418,True
+46,McDonald's (Metro City Plaza II),1.23,"Metro City, Yan King Rd, 8號新都城中心二期商場 一樓1017號舖, Hong Kong",+852 3194 5176,https://www.mcdonalds.com.hk/,1,3.6,642,True
+47,米線陣 (新都城中心店),1.24,"Shop UG008 MCP CENTRAL, 8 Yan King Rd, Tseung Kwan O, Hong Kong",+852 2404 5775,https://www.facebook.com/MiXianSense,2,3.5,212,True
+48,The Chef’s Table,1.24,"Tseung Kwan O, Tong Tak St, 3號香港九龍東皇冠假日酒店1樓, Hong Kong",+852 3983 0688,"https://www.ihg.com/crowneplaza/hotels/gb/en/hong-kong/hkgtk/hoteldetail/dining?qDest=Hong%20Kong,%20China&qCiD=20&qCoD=21&qCiMy=42019&qCoMy=42019&qAdlt=1&qChld=0&qRms=1&qWch=0&qSmP=1&setPMCookies=true&qRtP=6CBARC&qAAR=6CBARC&qAkamaiCC=TW&srb_u=1&qRad=100&qRdU=km&presentationViewType=null&qSrt=sBR&qBrs=re.ic.in.vn.cp.vx.hi.ex.rs.cv.sb.cw.ma.ul.ki.va#",,3.5,348,True
+49,Cielo 星幕,1.26,"Tseung Kwan O, Tong Tak St, 3號47F, Hong Kong",+852 3983 0638,https://www.ihg.com/crowneplaza/hotels/cn/zh/hong-kong/hkgtk/hoteldetail/dining,,4.1,252,True
+50,太興 (新都城中心店),1.27,"8 Yan King Rd, Metro City, Hong Kong",+852 2670 1166,https://www.taihingroast.com.hk/,2,3.2,107,True

@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "user_location": {
+    "latitude": 22.316671,
+    "longitude": 114.2659053
+  },
+  "search_radius_meters": 500,
+  "total_results": 1,
+  "restaurants": [
+    {
+      "id": "51876cc5a3f9905c40597b4a5d2789503640f00103f9015f10781e01000000920316e7899be5a5b6e586b0e5aea4204d696c6b2043616665",
+      "name": "牛奶冰室 Milk Cafe",
+      "location": {
+        "latitude": 22.314592800403698,
+        "longitude": 114.26523680000001,
+        "address_line1": "Milk Cafe",
+        "address_line2": "18 Pui Shing Road, Hang Hau, Hong Kong, China",
+        "city": "Sai Kung District",
+        "district": null,
+        "postcode": null,
+        "country": "China"
+      },
+      "distance_meters": 240,
+      "distance_km": 0.24,
+      "categories": [
+        "catering",
+        "catering.restaurant",
+        "catering.restaurant.regional"
+      ],
+      "cuisine_types": [
+        "general"
+      ],
+      "contact": {
+        "phone": null,
+        "website": null,
+        "email": null
+      },
+      "operating_hours": {
+        "is_open_now": false,
+        "hours_today": null,
+        "weekly_hours": null
+      },
+      "health_tags": {
+        "has_healthy_options": false,
+        "has_vegetarian": false,
+        "has_vegan": false,
+        "has_gluten_free": false,
+        "has_organic": false,
+        "cuisine_health_score": 50
+      },
+      "rating": null,
+      "review_count": null,
+      "place_id": "51876cc5a3f9905c40597b4a5d2789503640f00103f9015f10781e01000000920316e7899be5a5b6e586b0e5aea4204d696c6b2043616665",
+      "osm_id": "",
+      "image_url": null,
+      "price_level": null
+    }
+  ],
+  "generated_at": "2026-02-05T17:15:14.221314",
+  "map_url": "C:\\Users\\User\\Desktop\\FYP\\Restaurant\\output\\restaurant_map.html",
+  "error_message": null
+}

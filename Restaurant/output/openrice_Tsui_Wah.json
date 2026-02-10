@@ -1,0 +1,45 @@
+{
+  "query": "Tsui Wah",
+  "matched": true,
+  "confidence": 0.9,
+  "name": "Tsui Wah Restaurant (Sliver Fortune Plaza)",
+  "openrice_id": "tsui-wah-restaurant-central-hong-kong-style-r888537",
+  "openrice_url": "https://www.openrice.com/en/hongkong/r-tsui-wah-restaurant-central-hong-kong-style-r888537/",
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": {
+    "rating": null,
+    "review_count": null,
+    "smile_count": null,
+    "cry_count": null
+  },
+  "review_texts": [
+    "中環威靈頓街翠華環境乾淨明亮，空間寬敞坐得舒服～店員態度親切，落單快又有禮👏。主打神之叉燒飯🍛 炙燒香氣濃厚，肥瘦比例啱啱好，肉質軟嫩入味；海南雞🐔 則滑得嚟無渣，配油飯香氣十足，三款特製醬料層次豐富～甜品方面必試芒果流心芝士蛋糕🍰，香濃芝士配酸甜果香超加分，再來一杯凍Mocha☕️，完美收尾💯。食材選用用心，包括粗鹽、無…Read More",
+    "翠華新店，門面裝修滿有新年氣氛，甚為吸引，不禁都想入內看看，試一試味道如何！是夜的豐富晚餐，有菜有肉，滿意的一餐！神之叉燒飯，招牌熱搜菜式！叉燒蜜汁甜美，金黃色滑蛋夠靚仔，飯底熱辣辣的，高水準的叉燒飯。杞子鮮魚湯浸豆苗時令豆苗嫩滑無渣，鮮嫩翠綠。魚湯鮮甜，加上枸杞點綴，又靚又好味。酥炸雞翼配檸檬🍋乳路醬雞翼炸得香脆，咬開有…Read More",
+    "中環翠華餐廳都算係一個經典，係當年好多蒲友宵夜嘅地方，隨着蘭桂坊日漸式微，翠華這個名字已經成為記憶點。TGIF放工同朋友HH 後，轉場食晚飯點知轉角遇到佢#翠華餐廳 原來搬咗去威靈頓街1號同朋友突然間click 左野🤩大家都想去重溫當年情。我形容佢呢度係一間高級茶餐廳，全卡位設計，裝修有啲西餐廳feel ，卡位超大夠晒六個人坐，所以我哋兩個坐…Read More",
+    "翠華餐廳曾經是中環的經典地標，猶記得當年威靈頓街是喜愛夜蒲族消遣過後的聚腳醫肚必選。上年翠華在中環載譽歸來，以新面貌重臨中環這片中產消遣之地。呢度嘅裝潢以彩粉紅的顏色為主調色，親和力十足。今日同朋友叫左呢度最出名「翠」特出系列的文昌雞飯。d雞肉嫩滑皮薄兼有啫喱的Q彈，難怪馳名多年。朋友就叫左東南亞咖哩系列的咖哩大蝦飯，距d咖…Read More",
+    "今日同同事去咗中環翠華，原來佢係比其他翠華多好多選擇，有唔同國家的野可以揀。佢哋嘅焗豬扒飯都幾出名，所以就決定試吓。繽紛鮮茄焗豬扒飯一上枱就聞到好香嘅茄汁味。豬扒係超厚切，豬扒比飯都多，肉質都幾嫩滑，配埋酸酸甜甜嘅茄汁，好開胃。飯底就必須係炒飯底，整體味道都唔錯，成個飯係飯配豬扒，啖啖肉好滿足。咖哩牛筋腩手抓餅呢個配搭都幾…Read More"
+  ],
+  "images": [
+    {
+      "url": "https://c-vod.orstatic.com/tos-sgcomm1-v-4a5b5a09e1a01d2e-sg/o00qsie3HAOIxAVOKAcQw58DpvJcIocTRHIOdI~tplv-vod-noop.image",
+      "alt": "",
+      "is_main": true
+    },
+    {
+      "url": "https://static6.orstatic.com/userphoto3/photo/2Z/2CM4/0GPPDPA924C76BDACB1FCFmx.jpg",
+      "alt": "",
+      "is_main": false
+    },
+    {
+      "url": "https://static7.orstatic.com/userphoto3/photo/2Z/2CNM/0GQ02E23240440679FC886mx.jpg",
+      "alt": "",
+      "is_main": false
+    }
+  ],
+  "main_image": null,
+  "scraped_at": "2026-02-08T20:24:26.352822"
+}

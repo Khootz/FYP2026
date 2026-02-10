@@ -1,0 +1,38 @@
+{
+  "query": "KFC TKO",
+  "matched": true,
+  "confidence": 0.5,
+  "name": "Kentucky Fried Chicken",
+  "openrice_id": "kentucky-fried-chicken-tseung-kwan-o-american-r530234",
+  "openrice_url": "https://www.openrice.com/en/hongkong/r-kentucky-fried-chicken-tseung-kwan-o-american-r530234/",
+  "address": null,
+  "district": null,
+  "cuisine_types": [],
+  "price_range": null,
+  "phone": null,
+  "reviews": {
+    "rating": null,
+    "review_count": null,
+    "smile_count": null,
+    "cry_count": null
+  },
+  "images": [
+    {
+      "url": "https://static7.orstatic.com/userphoto3/photo/2Y/2CH0/0GOOZM42EC9D695281EC68mx.jpg",
+      "alt": "",
+      "is_main": true
+    },
+    {
+      "url": "https://static8.orstatic.com/userphoto3/photo/2O/241D/0F0PTV7F0E54DD3248C406mx.jpg",
+      "alt": "",
+      "is_main": false
+    },
+    {
+      "url": "https://static8.orstatic.com/userphoto3/photo/2L/21ZA/0EM31JCAB59A0240A1249Cmx.jpg",
+      "alt": "",
+      "is_main": false
+    }
+  ],
+  "main_image": null,
+  "scraped_at": "2026-02-08T18:26:38.275529"
+}

@@ -1,0 +1,49 @@
+{
+  "cached_at": "2026-02-08T20:38:12.374452",
+  "query": "Ayutthaya",
+  "data": {
+    "query": "Ayutthaya",
+    "matched": true,
+    "confidence": 1.0,
+    "name": "Ayutthaya",
+    "openrice_id": "ayutthaya-causeway-bay-thai-r729337",
+    "openrice_url": "https://www.openrice.com/en/hongkong/r-ayutthaya-causeway-bay-thai-r729337/",
+    "address": null,
+    "district": null,
+    "cuisine_types": [],
+    "price_range": null,
+    "phone": null,
+    "reviews": {
+      "rating": null,
+      "review_count": null,
+      "smile_count": null,
+      "cry_count": null
+    },
+    "review_texts": [
+      "呢日去銅鑼灣行街，隨意揀咗間泰國嘢食，勁中伏，唔單止唔好食，食完仲有啲皮膚敏感(可能係我自己問題啫)二人精選晚餐 青檸汁豬頸肉：廚房師傅可能忘記醃製呢步驟。一塊好地地嘅豬頸肉，只有炭燒香味但就肉就冇味啦！柚子沙律： 可能成本問題，紅肉西柚就冇，只係用普通沙田柚，柚淡淡的，如果喜歡清清地嘅....炒金邊粉：顏色正常嘅，不過蝦又少又係…Read More",
+      "今日再銅鑼灣上完課後，便選擇了這間泰式船麵的餐廳。二人晚餐價錢很像很便宜，便進去試一試。坐下的時候，有一小籃的蝦餅送上給我們，這是很香趣的蝦餅，真的令人很驚喜，令我很期待今晚的晚餐。 炒鮮蝦金邊粉 $88想試一些傳統泰式食物，選擇這個炒金邊粉。上枱的時候金邊粉很多但蝦只有三隻，沒有味道的蝦，其他配料也不多，味道也不怎出色，金邊…Read More",
+      "豉油炒河泥（旁邊係泰式辣醬），豬頸肉似係普通嘅肉片，無做到香口脆邊同無彈牙嘅感覺，不過河粉幾闊身嘅，可能食湯船麵會好啲附送嘅椰子雞湯亦都完全冇椰子味，真係好一般$68（咁嘅質素值＄4x幾會合理啲）…Read More",
+      "小編今日來到銅鑼灣一間泰國餐廳「Ayutthaya 大城船麵」，餐廳靈感源自40年代泰國中部地區🇹🇭 將傳統泰國運河船上的美食帶到香港🧡 餐廳堅持每天從泰國空運新鮮特產與調味料，充滿濃厚的泰國風情🙌🏻 「泰式遊船金邊粉（豬肉丸、豬潤、肉片）」經典泰式船麵，以濃郁的湯底為靈魂，湯頭混合豬血與香料熬煮✨ 味道帶有獨特的鮮味與肉香層次，金邊粉軟幼…Read More",
+      "今日麵係想食麵😅周圍行吓，見到哩間有泰國船麵喎！俾佢門口嘅相吸引咗入去，環境有d似茶記，一入到去店員就叫我搭枱，但店員服務態度係唔錯嘅，見我睇緊晚餐Menu嘅船麵，店員就好好俾個下午茶Menu我，話差唔多，重平啲添，我就叫咗個下午茶嘅泰國遊船金邊粉（豬肉丸/豬潤/肉片），賣相唔錯，但我唔記得轉鴨蛋麵（我比較喜歡鴨蛋麵），湯低：都唔錯…Read More"
+    ],
+    "images": [
+      {
+        "url": "https://static7.orstatic.com/userphoto3/photo/2Y/2CAK/0GNF6IE6B1101147C48560mx.jpg",
+        "alt": "",
+        "is_main": true
+      },
+      {
+        "url": "https://static8.orstatic.com/userphoto3/photo/2W/2AD3/0G9P3J0222CA714D666D2Fmx.jpg",
+        "alt": "",
+        "is_main": false
+      },
+      {
+        "url": "https://static6.orstatic.com/userphoto3/photo/2V/29VW/0G6AUPE24F1F7A3E2F550Amx.jpg",
+        "alt": "",
+        "is_main": false
+      }
+    ],
+    "main_image": null,
+    "scraped_at": "2026-02-08T20:37:57.262388"
+  }
+}
