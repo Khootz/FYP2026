@@ -83,7 +83,7 @@ async function fetchFromFastAPI(restaurantName: string): Promise<OpenRiceData | 
       return null;
     }
     
-    const result = await response.json();
+    const result = await response.json() as any;
     console.log(`✅ Success: ${result.success}`);
     console.log(`💾 Cache hit: ${result.cache_hit}`);
     

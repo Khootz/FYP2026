@@ -234,7 +234,7 @@ app.post("/api/restaurants/search", async (req, res) => {
       throw new Error(`Geoapify API error: ${response.status}`);
     }
 
-    const data = await response.json();
+    const data = await response.json() as any;
     const features = data.features || [];
 
     // Sort by distance
@@ -284,7 +284,7 @@ app.get("/api/geocode/reverse", async (req, res) => {
       throw new Error(`Geoapify API error: ${response.status}`);
     }
 
-    const data = await response.json();
+    const data = await response.json() as any;
     const feature = data.features?.[0];
 
     if (!feature) {
