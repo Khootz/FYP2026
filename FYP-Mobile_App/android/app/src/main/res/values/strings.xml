@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fyp-mobile-app</string>
+    <string name="title_activity_main">fyp-mobile-app</string>
+    <string name="package_name">com.yourcompany.fypmobile</string>
+    <string name="custom_url_scheme">com.yourcompany.fypmobile</string>
+</resources>

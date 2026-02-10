@@ -1,0 +1,212 @@
+/* Import Leaflet CSS - must be at the top */
+@import "leaflet/dist/leaflet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 160 15% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 160 15% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 160 15% 15%;
+
+    --primary: 160 70% 45%;
+    --primary-foreground: 0 0% 100%;
+    
+    --primary-light: 160 65% 55%;
+    --primary-dark: 160 75% 35%;
+
+    --secondary: 200 70% 50%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 160 15% 96%;
+    --muted-foreground: 160 10% 45%;
+
+    --accent: 45 95% 60%;
+    --accent-foreground: 160 15% 15%;
+
+    --destructive: 0 75% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 140 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --border: 160 15% 90%;
+    --input: 160 15% 90%;
+    --ring: 160 70% 45%;
+
+    --radius: 0.75rem;
+    
+    --gradient-primary: linear-gradient(135deg, hsl(160 70% 45%), hsl(180 65% 50%));
+    --gradient-card: linear-gradient(180deg, hsl(0 0% 100%), hsl(160 15% 98%));
+    --shadow-soft: 0 2px 12px -2px hsl(160 50% 45% / 0.15);
+    --shadow-elevated: 0 8px 24px -4px hsl(160 50% 45% / 0.2);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 160 20% 10%;
+    --foreground: 160 5% 95%;
+
+    --card: 160 15% 12%;
+    --card-foreground: 160 5% 95%;
+
+    --popover: 160 15% 12%;
+    --popover-foreground: 160 5% 95%;
+
+    --primary: 160 65% 50%;
+    --primary-foreground: 160 20% 10%;
+    
+    --primary-light: 160 60% 60%;
+    --primary-dark: 160 70% 40%;
+
+    --secondary: 200 65% 55%;
+    --secondary-foreground: 160 20% 10%;
+
+    --muted: 160 15% 18%;
+    --muted-foreground: 160 10% 60%;
+
+    --accent: 45 90% 65%;
+    --accent-foreground: 160 20% 10%;
+
+    --destructive: 0 70% 50%;
+    --destructive-foreground: 160 5% 95%;
+
+    --success: 140 65% 50%;
+    --success-foreground: 160 20% 10%;
+
+    --border: 160 15% 20%;
+    --input: 160 15% 20%;
+    --ring: 160 65% 50%;
+
+    --gradient-primary: linear-gradient(135deg, hsl(160 65% 50%), hsl(180 60% 55%));
+    --gradient-card: linear-gradient(180deg, hsl(160 15% 12%), hsl(160 15% 14%));
+    --shadow-soft: 0 2px 12px -2px hsl(0 0% 0% / 0.3);
+    --shadow-elevated: 0 8px 24px -4px hsl(0 0% 0% / 0.4);
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom Leaflet styles for dark theme */
+.leaflet-container {
+  font-family: inherit;
+  background: #0f172a;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #1e293b;
+  color: #f8fafc;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.leaflet-popup-tip {
+  background: #1e293b;
+}
+
+.leaflet-popup-content {
+  margin: 12px;
+}
+
+.leaflet-popup-close-button {
+  color: #94a3b8 !important;
+}
+
+.leaflet-popup-close-button:hover {
+  color: #f8fafc !important;
+}
+
+.custom-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.user-location-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Leaflet attribution */
+.leaflet-control-attribution {
+  background: rgba(15, 23, 42, 0.8) !important;
+  color: #64748b !important;
+  font-size: 10px;
+}
+
+.leaflet-control-attribution a {
+  color: #94a3b8 !important;
+}
+
+/* Custom scrollbar for restaurant list */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Safe area insets for modern phones with gesture navigation */
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.safe-area-top {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+/* Page content padding to account for bottom nav + safe area */
+.page-content {
+  padding-bottom: calc(4rem + env(safe-area-inset-bottom, 0px) + 1rem);
+}
+
+/* Full width container */
+.full-width {
+  width: 100%;
+  max-width: 100%;
+}
