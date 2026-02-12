@@ -2,7 +2,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import express from "express";
 import multer from "multer";
-import openriceRouter from "./openrice";
+import openriceRouter from "./openrice.js";
 
 dotenv.config();
 
@@ -344,7 +344,9 @@ app.use((_req, res) => {
   res.status(404).json({ message: "Route not found" });
 });
 
-app.listen(port, () => {
-  console.log(`API listening on http://localhost:${port}`);
+app.listen(port, '0.0.0.0', () => {
+  console.log(`API listening on http://0.0.0.0:${port}`);
+  console.log(`Local: http://localhost:${port}`);
+  console.log(`Network: http://10.89.183.141:${port}`);
 });
 

@@ -1,5 +1,6 @@
 import { Flame, Apple, Utensils, Droplets } from "lucide-react";
 import { StatCard } from "@/components/StatCard";
+import { SmartWatchConnect } from "@/components/SmartWatchConnect";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { BottomNav } from "@/components/BottomNav";
@@ -117,6 +118,9 @@ const Dashboard = () => {
             />
           </div>
         </section>
+
+        {/* Smart Watch Connection */}
+        <SmartWatchConnect />
 
         {/* Quick Actions */}
         <section>
